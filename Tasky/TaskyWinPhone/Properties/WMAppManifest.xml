@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="" />
   <App xmlns="" ProductID="{49197790-5240-4beb-82a9-784654fd56bd}" Title="TaskyWP7" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="TaskyWP7 author" Description="Sample description" Publisher="TaskyWP7" PublisherID="{e4b4368d-b7cc-4c13-8c21-8f9af9d31066}">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
